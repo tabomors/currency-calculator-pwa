@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+.form-columns {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.form-field {
+  margin-right: 15px;
+}
+
+.form-field:last-child {
+  margin-right: 0;
+}
