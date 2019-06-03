@@ -1,5 +1,5 @@
 const CACHE_NAME = "currency-calculator-v1";
-const filesToCache = ["/", "/index.html", "/main.css", "/main.js"];
+const filesToCache = ["./", "./index.html", "./main.css", "./main.js"];
 
 const MONEY_EXCHANGE_API = "https://api.exchangeratesapi.io";
 
